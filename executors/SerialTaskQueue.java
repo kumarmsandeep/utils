@@ -1,4 +1,4 @@
-package com.actiance.webexteams.app;
+package com.app;
 
 import java.util.HashMap;
 import java.util.LinkedList;
